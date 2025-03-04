@@ -1,5 +1,6 @@
 # XAI-Lung-Disease-Detection
 In this code, worked on Lung disease detection using XAI model Shap. 
+#Data_SetLink: https://www.kaggle.com/datasets/samikshadalvi/lungs-diseases-dataset/data
 import numpy as np
 import pandas as pd
 
